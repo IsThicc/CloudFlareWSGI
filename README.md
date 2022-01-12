@@ -51,4 +51,4 @@ All data in this repository is owned by [IsThicc](https://isthicc.dev/). For
 further Legal and Copyright concerns or information, please email our Management 
 (contact information can be found on our website).
 
-<p align="center">Copyright (c) 2020-2021 IsThicc Software</p>
+<p align="center">Copyright (c) 2020-2022 IsThicc Software</p>
